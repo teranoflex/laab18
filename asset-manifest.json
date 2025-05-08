@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laab18/static/css/main.e6c13ad2.css",
+    "main.js": "/laab18/static/js/main.1c785f2b.js",
+    "static/js/453.acca0757.chunk.js": "/laab18/static/js/453.acca0757.chunk.js",
+    "index.html": "/laab18/index.html",
+    "main.e6c13ad2.css.map": "/laab18/static/css/main.e6c13ad2.css.map",
+    "main.1c785f2b.js.map": "/laab18/static/js/main.1c785f2b.js.map",
+    "453.acca0757.chunk.js.map": "/laab18/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1c785f2b.js"
+  ]
+}
